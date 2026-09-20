@@ -1,0 +1,17 @@
+edu\course\library\BorrowService.class
+edu\course\library\RecordingBorrowNotifier.class
+edu\course\library\BorrowingPolicy.class
+edu\course\library\SmsBorrowNotifier.class
+edu\course\library\V1Checks$Fixture.class
+edu\course\library\App.class
+edu\course\library\User.class
+edu\course\library\LibraryRepository.class
+edu\course\library\BaselineChecks$Fixture.class
+edu\course\library\BorrowRecord.class
+edu\course\library\BookCopy.class
+edu\course\library\V1Checks.class
+edu\course\library\LegacySmsClient.class
+edu\course\library\EmailBorrowNotifier.class
+edu\course\library\InMemoryDatabase.class
+edu\course\library\BaselineChecks.class
+edu\course\library\BorrowNotifier.class

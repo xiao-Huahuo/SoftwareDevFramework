@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.course.library.service.Class01ChallengeTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 s -- in edu.course.library.service.Class01ChallengeTest

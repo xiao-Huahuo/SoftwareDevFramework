@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="edu.course.library.service.LibraryServiceTest" time="0.007" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="C:\Users\slump\Desktop\软件开发框架\第1次课实践任务\起始工程_第1次课\target\test-classes;C:\Users\slump\Desktop\软件开发框架\第1次课实践任务\起始工程_第1次课\target\classes;D:\Softwares\Maven\maven-repository\org\junit\jupiter\junit-jupiter\5.11.4\junit-jupiter-5.11.4.jar;D:\Softwares\Maven\maven-repository\org\junit\jupiter\junit-jupiter-api\5.11.4\junit-jupiter-api-5.11.4.jar;D:\Softwares\Maven\maven-repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;D:\Softwares\Maven\maven-repository\org\junit\platform\junit-platform-commons\1.11.4\junit-platform-commons-1.11.4.jar;D:\Softwares\Maven\maven-repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;D:\Softwares\Maven\maven-repository\org\junit\jupiter\junit-jupiter-params\5.11.4\junit-jupiter-params-5.11.4.jar;D:\Softwares\Maven\maven-repository\org\junit\jupiter\junit-jupiter-engine\5.11.4\junit-jupiter-engine-5.11.4.jar;D:\Softwares\Maven\maven-repository\org\junit\platform\junit-platform-engine\1.11.4\junit-platform-engine-1.11.4.jar;"/>
+    <property name="java.vm.vendor" value="JetBrains s.r.o."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.org/"/>
+    <property name="user.timezone" value="GMT+08:00"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="C:\Users\slump\.jdks\jbr-21.0.9\bin"/>
+    <property name="sun.java.command" value="C:\Users\slump\AppData\Local\Temp\surefire15974411526940924969\surefirebooter-20260917221222726_3.jar C:\Users\slump\AppData\Local\Temp\surefire15974411526940924969 2026-09-17T22-12-22_540-jvmRun1 surefire-20260917221222726_1tmp surefire_0-20260917221222726_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\slump\Desktop\软件开发框架\第1次课实践任务\起始工程_第1次课\target\test-classes;C:\Users\slump\Desktop\软件开发框架\第1次课实践任务\起始工程_第1次课\target\classes;D:\Softwares\Maven\maven-repository\org\junit\jupiter\junit-jupiter\5.11.4\junit-jupiter-5.11.4.jar;D:\Softwares\Maven\maven-repository\org\junit\jupiter\junit-jupiter-api\5.11.4\junit-jupiter-api-5.11.4.jar;D:\Softwares\Maven\maven-repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;D:\Softwares\Maven\maven-repository\org\junit\platform\junit-platform-commons\1.11.4\junit-platform-commons-1.11.4.jar;D:\Softwares\Maven\maven-repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;D:\Softwares\Maven\maven-repository\org\junit\jupiter\junit-jupiter-params\5.11.4\junit-jupiter-params-5.11.4.jar;D:\Softwares\Maven\maven-repository\org\junit\jupiter\junit-jupiter-engine\5.11.4\junit-jupiter-engine-5.11.4.jar;D:\Softwares\Maven\maven-repository\org\junit\platform\junit-platform-engine\1.11.4\junit-platform-engine-1.11.4.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\slump"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-10-21"/>
+    <property name="java.home" value="C:\Users\slump\.jdks\jbr-21.0.9"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\slump\Desktop\软件开发框架\第1次课实践任务\起始工程_第1次课"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="intellij.os.virtualization" value="none"/>
+    <property name="jbr.virtualization.information" value="Hyper-V role"/>
+    <property name="surefire.real.class.path" value="C:\Users\slump\AppData\Local\Temp\surefire15974411526940924969\surefirebooter-20260917221222726_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.9+1-b1163.94"/>
+    <property name="user.name" value="slump"/>
+    <property name="stdout.encoding" value="GBK"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="JBR-21.0.9+1-1163.94-nomod"/>
+    <property name="localRepository" value="D:\Softwares\Maven\maven-repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\slump\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.9"/>
+    <property name="user.dir" value="C:\Users\slump\Desktop\软件开发框架\第1次课实践任务\起始工程_第1次课"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Users\slump\.jdks\jbr-21.0.9\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\slump\.jdks\jbr-21.0.9\bin;C:\Users\slump\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\powershell;C:\Users\slump\.codex\tmp\arg0\codex-arg0s9OqD1;C:\Users\slump\AppData\Roaming\npm\node_modules\@openai\codex\node_modules\@openai\codex-win32-x64\vendor\x86_64-pc-windows-msvc\codex-path;C:\Users\slump\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\libheif\libheif\bin;C:\Users\slump\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\jxrlib\jxrlib\bin;C:\Users\slump\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin;C:\Users\slump\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\override;C:\windows;C:\windows\system32;D:\Softwares\Python\Python312;D:\Softwares\Python\Python312\Scripts;D:\Softwares\msys2\mingw64\bin;D:\Softwares\Java\jdk-17\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\slump\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\powershell;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;D:\Windows Kits\10\Windows Performance Toolkit\;D:\Softwares\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;D:\Softwares\CMake\bin;C:\Program Files\Docker\Docker\resources\bin;D:\Softwares\nodejs\;C:\ProgramData\chocolatey\bin;D:\Softwares\vcpkg;D:\Softwares\Maven\maven-mvnd-1.0.2-windows-amd64\mvn\bin;D:\Softwares\flutter\bin;D:\Softwares\MATLAB_2021a\bin;D:\Softwares\Strawberry\c\bin;D:\Softwares\Strawberry\perl\site\bin;D:\Softwares\Strawberry\perl\bin;D:\Softwares\ffmpeg\ffmpeg-2026-02-02-git-7e9fe341df-full_build\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\Softwares\PostgreSQL\18\bin;D:\Softwares\Pandoc\;D:\Softwares\Microsoft VS Code\bin;C:\Users\slump\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\fallback;C:\Users\slump\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin;C:\Users\slump\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\git\cmd;C:\Users\slump\AppData\Local\OpenAI\Codex\bin\52366fb4fdb365a8;C:\Users\slump\AppData\Roaming\npm\node_modules\@openai\codex\node_modules\@openai\codex-win32-x64\vendor\x86_64-pc-windows-msvc\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="GBK"/>
+    <property name="java.vendor" value="JetBrains s.r.o."/>
+    <property name="java.vm.version" value="21.0.9+1-b1163.94"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="unavailableBook" classname="edu.course.library.service.LibraryServiceTest" time="0.003">
+    <system-out><![CDATA[AUDIT: U001 borrowed B001
+]]></system-out>
+  </testcase>
+  <testcase name="normalBorrow" classname="edu.course.library.service.LibraryServiceTest" time="0.001">
+    <system-out><![CDATA[AUDIT: U001 borrowed B001
+]]></system-out>
+  </testcase>
+  <testcase name="unknownUser" classname="edu.course.library.service.LibraryServiceTest" time="0.001"/>
+</testsuite>
