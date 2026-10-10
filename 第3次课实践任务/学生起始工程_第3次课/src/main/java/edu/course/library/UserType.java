@@ -1,0 +1,1 @@
+package edu.course.library; public enum UserType { STUDENT, TEACHER, VIP }

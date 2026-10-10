@@ -4,6 +4,7 @@
 
 # IntelliJ IDEA and Eclipse local configuration
 **/.idea/
+**/.vscode/
 *.iml
 *.ipr
 *.iws

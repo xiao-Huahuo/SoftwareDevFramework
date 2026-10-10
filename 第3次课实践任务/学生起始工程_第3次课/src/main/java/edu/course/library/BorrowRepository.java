@@ -1,0 +1,1 @@
+package edu.course.library; public interface BorrowRepository { User findUser(String id); BookCopy findBook(String id); long activeCount(String userId); void save(BorrowRecord record); }

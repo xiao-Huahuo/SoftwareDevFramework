@@ -1,0 +1,1 @@
+package edu.course.library; public record User(String id, UserType type) {}

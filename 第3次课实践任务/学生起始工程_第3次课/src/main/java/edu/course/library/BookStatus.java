@@ -1,0 +1,1 @@
+package edu.course.library; public enum BookStatus { AVAILABLE, ON_LOAN, RESERVED, MAINTENANCE }

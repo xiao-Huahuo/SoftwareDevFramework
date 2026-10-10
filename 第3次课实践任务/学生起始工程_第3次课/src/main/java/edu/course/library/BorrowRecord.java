@@ -1,0 +1,1 @@
+package edu.course.library; public record BorrowRecord(String userId,String bookId,int loanDays) {}

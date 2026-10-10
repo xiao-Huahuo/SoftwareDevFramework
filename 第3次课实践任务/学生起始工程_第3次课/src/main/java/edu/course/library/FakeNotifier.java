@@ -1,0 +1,1 @@
+package edu.course.library; public class FakeNotifier implements Notifier { private int count; public void notify(User u,String m){count++;} public int count(){return count;} }
